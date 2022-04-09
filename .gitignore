@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/all_types.csv
+.DS_Store
+causal_model.png
+effect10-07-38.png
